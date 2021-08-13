@@ -9,6 +9,7 @@
   min-height: 100vh;
   background: url(images/bg-stars.svg) right, url(images/pattern-hills.svg) bottom right;
   background-repeat: no-repeat;
+  background-size: contain;
   background-color: hsl(235, 16%, 14%);
   display: flex;
   flex-direction: column;
